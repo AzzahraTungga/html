@@ -1,0 +1,19 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(130, 133, 229);
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+div {
+    width: 80%;
+    margin: 0 auto;
+    height: 100x;
+ }
+ .bgimage{ background-image: url(/assets/image/Teknologi.jpg);}
